@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer rounded shield / badge plate -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M38,26 H70 C77.7,26 84,32.3 84,40 V68 C84,75.7 77.7,82 70,82 H38 C30.3,82 24,75.7 24,68 V40 C24,32.3 30.3,26 38,26 Z" />
+    
+    <!-- Accent border -->
+    <path
+        android:strokeColor="#10B981"
+        android:strokeWidth="2.5"
+        android:fillColor="#00000000"
+        android:pathData="M38,26 H70 C77.7,26 84,32.3 84,40 V68 C84,75.7 77.7,82 70,82 H38 C30.3,82 24,75.7 24,68 V40 C24,32.3 30.3,26 38,26 Z" />
+
+    <!-- Indian Rupee (₹) symbol in bright white and emerald -->
+    <!-- Top horizontal bar -->
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M37,35 H59 V39 H37 Z" />
+    <!-- Second horizontal bar -->
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M37,43 H55 V47 H37 Z" />
+    <!-- Rupee head curve and stem -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M37,35 H55 C59.4,35 63,38.6 63,43 C63,47.4 59.4,51 55,51 H46 L64,72 H58 L41,51 V47 H47 C52.5,47 57,45.2 57,43 C57,40.8 52.5,39 47,39 H41 V72 H37 V35 Z" />
+
+    <!-- Growth trend arrow badge in upper right -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M66,32 L75,32 L75,41 L71.5,37.5 L63.5,45.5 L60.5,42.5 L68.5,34.5 Z" />
+
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "RealProfit",
+  "description": "Calculate real profit and margins on every product and order for social commerce sellers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
